@@ -199,23 +199,23 @@ background-image: url(../img/background/thumbnail-slider-bg-8.jpg);
 
 
 /* carousel slider IMG BACKGROUND */
-.carousel-img-item-1 {		
+.carousel-img-item-1 {
 background-image: url(../img/team/Goldpack.png);
 }
 
-.carousel-img-item-2 {		
+.carousel-img-item-2 {
 background-image: url(../img/team/Pack.png);
 }
 
-.carousel-img-item-3 {	
+.carousel-img-item-3 {
 background-image: url(../img/team/FUTChamps.png);
 }
 
-.carousel-img-item-4 {		
+.carousel-img-item-4 {
 background-image: url(../img/team/Heroespack.png);
 }
 
-.carousel-img-item-5 {		
+.carousel-img-item-5 {
 background-image: url(../img/team/Legendspack.png);
 }
 
@@ -3196,7 +3196,7 @@ position: relative;
 font-family: 'Playfair Display SC', serif;
 font-style: normal;
 font-weight: 700;
-font-size: 125px;
+font-size: 105px;
 text-align: center;
 text-transform: uppercase;
 letter-spacing: -0.04em;
@@ -5949,7 +5949,7 @@ left: 50%;
     -ms-text-size-adjust: 100%;
 -webkit-pointer-events: none;
    -moz-pointer-events: none;
-        pointer-events: none; 
+        pointer-events: none;
 z-index: 100;
 }
 
